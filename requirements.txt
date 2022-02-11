@@ -1,0 +1,19 @@
+anyio==3.5.0
+asgiref==3.5.0
+click==8.0.3
+dnspython==2.2.0
+greenlet==1.1.2
+h11==0.13.0
+idna==3.3
+MarkupSafe==2.0.1
+pymongo==4.0.1
+six==1.16.0
+sniffio==1.2.0
+SQLAlchemy==1.4.31
+SQLAlchemy-Utils==0.38.2
+starlette==0.18.0
+starlette-core @ git+https://github.com/accent-starlette/starlette-core.git@88e94be0cc65e457e32f2586a3c8860c6c08fca9
+typing==3.7.4.3
+typing_extensions==4.0.1
+uvicorn==0.17.4
+WTForms==3.0.1
